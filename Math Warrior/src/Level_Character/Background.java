@@ -1,0 +1,34 @@
+package Level_Character;
+
+import java.awt.Graphics2D;
+import FrameWork.Comp;
+
+
+public class Background extends Comp {
+
+	public Background() {
+		index = 13;
+		x = 0;
+		y = 0;
+		
+
+	}
+
+	@Override
+	public void doDraw(Graphics2D g) {
+	
+
+	}
+
+	@Override
+	public void doLogic() {
+
+	}
+
+	@Override
+	protected void pressed() {
+		
+		
+	}
+
+}
