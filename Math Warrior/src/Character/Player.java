@@ -8,6 +8,7 @@ public class Player {
 	public int S;
 	public int E;
 	public int L;
+	public int Y;
 
 	public Player(int Gender, int Health, int Iq, int Speed, int Exp, int Level) {
 		G = Gender;
@@ -21,5 +22,5 @@ public class Player {
 	}
 
 
-	
+
 }
